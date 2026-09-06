@@ -15,13 +15,13 @@ hr-data-analysis-powerbi/
 
     # HR Data Analysis & Employee Attrition Dashboard
 
-## 📊 Project Overview
+## Project Overview
 
 This project is an HR Data Analysis dashboard developed using **Microsoft Power BI** and **Excel**.
 
 The project analyzes employee data to understand workforce characteristics, employee attrition, job satisfaction, and other HR-related trends.
 
-## 🎯 Objectives
+## Objectives
 
 * Analyze employee attrition patterns
 * Identify factors associated with employee turnover
@@ -31,7 +31,7 @@ The project analyzes employee data to understand workforce characteristics, empl
 * Understand the relationship between employee tenure and attrition
 * Provide an interactive dashboard for HR reporting
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 * Microsoft Power BI
 * Microsoft Excel
@@ -41,7 +41,7 @@ The project analyzes employee data to understand workforce characteristics, empl
 * Data Modeling
 * Data Visualization
 
-## 📈 Key Analysis
+## Key Analysis
 
 The dashboard provides analysis of:
 
@@ -54,17 +54,17 @@ The dashboard provides analysis of:
 * Years at Company vs Attrition
 * Employee Demographics
 
-## 📂 Project Files
+## Project Files
 
 * `HR Data.xlsx` – Source HR dataset
 * `HR_Data_Analysis.pbix` – Power BI dashboard
 * `screenshots/` – Dashboard preview images
 
-## 💡 Business Value
+## Business Value
 
 The dashboard helps HR teams identify employee groups with higher attrition and understand workforce patterns. These insights can support employee retention strategies, workforce planning, and HR decision-making.
 
-## 👨‍💻 Author
+##Author
 
 **Abhishek Dana**
 
